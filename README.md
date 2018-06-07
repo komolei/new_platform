@@ -3,7 +3,7 @@
 > new platform
 
 ## Author
-> komolei
+> komolei ~11
 
 ## Build Setup
 

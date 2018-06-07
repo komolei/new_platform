@@ -2,6 +2,9 @@
 
 > new platform
 
+## Author
+> komolei
+
 ## Build Setup
 
 ``` bash
